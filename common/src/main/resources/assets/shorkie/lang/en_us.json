@@ -1,0 +1,43 @@
+{
+  "itemGroup.shorkie.tab": "Shorkie",
+
+  "block.shorkie.best_sharkie": "Best Sharkie",
+  "block.shorkie.best_sharkie.tooltip": "a.k.a. Blåhaj",
+  "block.shorkie.gray_sharkie": "Gray Sharkie",
+  "block.shorkie.gray_sharkie.tooltip": "a.k.a. Gråhaj",
+  "block.shorkie.breadstick": "Bread Pillow Plushie",
+  "block.shorkie.breadstick.tooltip": "Looks tasty mmm.",
+  "block.shorkie.sharkie_but_whale": "Blue Whale Plushie",
+  "block.shorkie.sharkie_but_whale.tooltip": "a.k.a. Blåvingad",
+
+  "block.shorkie.asexual_pride_sharkie": "Asexual Pride Sharkie",
+  "block.shorkie.agender_pride_sharkie": "Agender Pride Sharkie",
+  "block.shorkie.aromantic_pride_sharkie": "Aromantic Pride Sharkie",
+  "block.shorkie.aroace_pride_sharkie": "AroAce Pride Sharkie",
+  "block.shorkie.bi_pride_sharkie": "Bi Pride Sharkie",
+  "block.shorkie.gay_pride_sharkie": "Gay Pride Sharkie",
+  "block.shorkie.lesbian_pride_sharkie": "Lesbian Pride Sharkie",
+  "block.shorkie.pan_pride_sharkie": "Pan Pride Sharkie",
+  "block.shorkie.poly_pride_sharkie": "Poly Pride Sharkie",
+  "block.shorkie.trans_pride_sharkie": "Trans Pride Sharkie",
+  "block.shorkie.demiboy_pride_sharkie": "Demiboy Pride Sharkie",
+  "block.shorkie.demigirl_pride_sharkie": "Demigirl Pride Sharkie",
+  "block.shorkie.demiromantic_pride_sharkie": "Demiromantic Pride Sharkie",
+  "block.shorkie.demisexual_pride_sharkie": "Demisexual Pride Sharkie",
+  "block.shorkie.non_binary_pride_sharkie": "Non-binary Pride Sharkie",
+  "block.shorkie.genderfluid_pride_sharkie": "Gender Fluid Pride Sharkie",
+  "block.shorkie.genderqueer_pride_sharkie": "Gender Queer Pride Sharkie",
+  "block.shorkie.grayrose_pride_sharkie": "Grayrose Pride Sharkie",
+  "block.shorkie.grayromantic_pride_sharkie": "Grayromantic Pride Sharkie",
+  "block.shorkie.graysexual_pride_sharkie": "Graysexual Pride Sharkie",
+  "block.shorkie.intersex_pride_sharkie": "Intersex Pride Sharkie",
+  "block.shorkie.queer_pride_sharkie": "Pride Sharkie",
+
+  "subtitles.shorkie.block.plushie.use.1": "Plushie Squeaking",
+  "subtitles.shorkie.block.plushie.use.2": "Squeeeeeeeeeeeeek",
+  "subtitles.shorkie.block.plushie.use.3": "Dog Toy Squeaking",
+  "subtitles.shorkie.block.plushie.use.4": "Squeaking Plushie",
+  "subtitles.shorkie.block.plushie.use.5": "Plushie Squirming",
+
+  "subtitles.shorkie.block.plushie.hit": "Plushie Getting shot"
+}

@@ -1,0 +1,38 @@
+{
+  "block.shorkie.plushie.use.1": {
+    "subtitle": "subtitles.shorkie.block.plushie.use.1",
+    "sounds": [
+      "shorkie:block.shorkie.plushie.use.1"
+    ]
+  },
+  "block.shorkie.plushie.use.2": {
+    "subtitle": "subtitles.shorkie.block.plushie.use.2",
+    "sounds": [
+      "shorkie:block.shorkie.plushie.use.2"
+    ]
+  },
+  "block.shorkie.plushie.use.3": {
+    "subtitle": "subtitles.shorkie.block.plushie.use.3",
+    "sounds": [
+      "shorkie:block.shorkie.plushie.use.3"
+    ]
+  },
+  "block.shorkie.plushie.use.4": {
+    "subtitle": "subtitles.shorkie.block.plushie.use.4",
+    "sounds": [
+      "shorkie:block.shorkie.plushie.use.4"
+    ]
+  },
+  "block.shorkie.plushie.use.5": {
+    "subtitle": "subtitles.shorkie.block.plushie.use.5",
+    "sounds": [
+      "shorkie:block.shorkie.plushie.use.5"
+    ]
+  },
+  "block.shorkie.plushie.hit": {
+    "subtitle": "subtitles.shorkie.block.plushie.hit",
+    "sounds": [
+      "shorkie:block.shorkie.plushie.hit"
+    ]
+  }
+}
